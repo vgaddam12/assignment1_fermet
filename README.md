@@ -18,7 +18,6 @@
 ### Programmer Names & Emails:
 * Prem Kumar Baddam - PremKumarBaddam@lewisu.edu
 * Vineeth Reddy Gaddam -VineethReddyGaddam@lewisu.edu
-* Charles Schuck - schuckc@duq.edu 
   
 ### Course:
 * Software Engineering (Sections SU22-CPSC-60500-001 & 002)
