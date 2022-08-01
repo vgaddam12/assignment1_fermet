@@ -50,6 +50,6 @@
 ### RUNNING THE PROGRAM
 - Make sure you are running the latest version of Java.
     - You can download the latest version here: https://www.oracle.com/java/technologies/javase-downloads.html
-- On Windows, open Command Prompt and use the "cd" command to navigate to the directory where you have Assignment-2.jar installed.
+- On Windows, open Command Prompt and use the "cd" command to navigate to the directory where you have fermet.jar installed.
 - Once you have accessed the correct directory, run the command "java -jar fermet.jar". 
 
